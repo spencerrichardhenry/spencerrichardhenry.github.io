@@ -10,3 +10,6 @@ of the games. Barlow is bundled under its included SIL Open Font License.
 - Royal Yeet: https://spencerrichardhenry.github.io/wildtag/royal-yeet.html
 - Dungeon Run (mobademo): https://spencerrichardhenry.github.io/mobatest/
 - Wildtag: https://spencerrichardhenry.github.io/wildtag/
+- Moss & Maw: https://spencerrichardhenry.github.io/moss-and-maw/
+
+The former `/garbage-dragon/` address redirects to `/moss-and-maw/`.
