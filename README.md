@@ -12,5 +12,6 @@ of the games. Barlow is bundled under its included SIL Open Font License.
 - Wildtag: https://spencerrichardhenry.github.io/wildtag/
 - Moss & Maw: https://spencerrichardhenry.github.io/moss-and-maw/
 - Spin Arena: https://spencerrichardhenry.github.io/spin-arena/
+- Sketch Racer: https://spencerrichardhenry.github.io/sketch-racer/
 
 The former `/garbage-dragon/` address redirects to `/moss-and-maw/`.
